@@ -1,4 +1,4 @@
-FROM jekyll/jekyll:latest
+FROM jitesoft/jekyll:latest
 LABEL version="1.2.0"
 LABEL description="Minimal Jekyll image with basic build tools."
 LABEL maintainer="Vivien Richter <vivien-richter@outlook.de>"
